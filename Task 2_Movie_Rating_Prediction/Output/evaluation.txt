@@ -1,0 +1,6 @@
+Movie Rating Prediction - Evaluation
+Rows used: 7919
+Features: ['Genre', 'Director', 'Actor 1', 'Actor 2', 'Actor 3', 'Year', 'Duration', 'Votes']
+MAE: 0.804
+RMSE: 1.081
+R2: 0.371

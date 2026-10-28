@@ -1,0 +1,6 @@
+SALES PREDICTION MODEL EVALUATION
+---------------------------------
+Dataset rows: 200
+Mean Absolute Error (MAE): 1.4608
+Root Mean Squared Error (RMSE): 1.7816
+R-squared (R2 Score): 0.8994
